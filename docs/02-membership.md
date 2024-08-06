@@ -133,7 +133,7 @@ The membership is a set of people working within the eligible projects who have 
 | [Tuyen Nguyen](https://github.com/twoeths/) | 1 | Lodestar | [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%3Atwoeths) |
 | [Ahmad Bitar](https://github.com/smartprogrammer93 ) | 0.5 | Nethermind | |
 | [Alexey Osipov](https://github.com/flcl42) | 1 | Nethermind | [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)<br>[NethermindEth/nethermind PR's](https://github.com/NethermindEth/nethermind/pulls/flcl42) |
-| [Ayman Bouchareb](https://github.com/Demuirgos) | 1 | Nethermind | |
+| [Ayman Bouchareb](https://github.com/Demuirgos) | 1 | Nethermind | [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls?q=author%3ADemuirgos) |
 | [Ben Adams](https://github.com/benaadams) | 0.5 | | [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls?q=author%3Abenaadams)|
 | [Damian Orzechowski](https://github.com/damian-orzechowski) | 1 | | [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls?q=author%3Adamian-orzechowski+) |
 | [Carlos Bermudez Porto](https://github.com/cbermudez97) | 0.5 | | [NethermindEth contributions](https://github.com/cbermudez97?org=NethermindEth)<br>[NethermindEth/nethermind PR's](https://github.com/NethermindEth/nethermind/pulls?q=author%3Acbermudez97+)|
