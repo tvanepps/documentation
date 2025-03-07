@@ -29,8 +29,10 @@ Or, see all media from over the years below:
 
 | Presentations (Audio + Video) | Event | Date |
 |:----|:----|----:|
+| [ Protocol Guild: Sustaining Ethereum's Future](https://www.youtube.com/watch?v=rSnrdISXcGY) | Ethereum Zuri | Jan 30 2025 |
 | [Protocol Guild: funding the Ethereum commons](https://www.youtube.com/watch?v=4Hc664qQkV0) | Devcon 7 | Nov 15 2024 |
-| [Protocol Guild: Funding Core Protocol Stewardship](https://www.youtube.com/watch?v=ZIXQJmBwSrM) | EDCON 2024 | Jul 29 2024 |
+| [Protocol Guild: Funding Core Protocol Stewardship](https://www.youtube.com/watch?v=ZIXQJmBwSrM) | ETHKL 2024 | Oct 05 2024 |
+| [Protocol Guild: Funding Core Protocol Stewardship](https://www.youtube.com/watch?v=QfbIt3r9Qdo) | EDCON 2024 | Jul 29 2024 |
 | [Protocol Guild: Funding Core Protocol Stewardship](https://ethcc.io/archives/protocol-guild-funding-core-protocol-stewardship) | EthCC 2024 | Jul 09 2024 |
 | [Capital and Enclosure in Software Commons: Linux & Ethereum](https://www.youtube.com/watch?v=Z9O5_lve10o) | Summer of Protocols | 27 Mar 2024 |
 | [Protocol Guild: Funding Core Protocol Stewardship](https://twitter.com/EthereumDenver/status/1763690444121121200) | EthDenver 2024 | Mar 01 2024 |
@@ -49,6 +51,13 @@ Or, see all media from over the years below:
 
 | Podcasts & Discussions (Audio) | Host | Date |
 |:----|:----|----:|
+| [PWN Dao Takes the Protocol Guild Pledge](https://x.com/i/spaces/1ZkKzRYwYMNKv/peek) | X Space | Jan 29 2025 |
+| [How INTMAX supports Protocol Guild](https://x.com/i/spaces/1DXGyddVjdPKM/peek) | X Space | Jan 27 2025 |
+| [Epoch 6 Projects Space](https://x.com/i/spaces/1ynKODDNaVXGR/peek) | X Space | Jan 21 2025 |
+| [Trailblazers of Octant Episode 3](https://www.cryptoaltruism.org/blog/crypto-altruism-podcast-trailblazers-of-octant-episode-3-protocol-guild-powering-ethereums-future-with-decentralized-funding) | Crypto Altruism Podcast | Dec 24 2024 |
+| [Aligned is taking the Protocol Guild Pledge!](https://x.com/i/spaces/1ZkJzRLeAdWJv/peek) | X Space | Dec 18 2024 |
+| [Proof of Donation w/ @ProtocolGuild](https://x.com/i/spaces/1OdJrjjXbjvJX/peek) | X Space | Jun 20 2024 |
+| [CESR + CoinFund + Protocol Guild](https://x.com/i/spaces/1ypKdkdZqoQxW/peek) | X Space | Jun 17 2024 |
 | [Enclosure of Software Commons and CoFi](https://x.com/i/spaces/1yoKMwZkXAOJQ) | CCA X Space | Jun 12 2024 |
 | [Future of Public Goods Funding #9 - Protocol Guild](https://x.com/i/spaces/1yNGaZNlQDnJj) | Eugene Leventhal X Space | Jun 11 2024 |
 | [Safeguarding Ethereum's Soul with Trent Van Epps](https://www.youtube.com/watch?v=eYZ7zHPvoHU) | Blockchain Socialist | Dec 10 2023 |
