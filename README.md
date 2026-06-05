@@ -1,9 +1,9 @@
-This repo generates the Protocol Guild [documentation](https://protocol-guild.readthedocs.io/en/latest/).
-
-It was heavily refactored in May 2024 to properly document the Pilot and the new components/processes of PGv2, and again in July 2025 to condense the number of pages - if you've linked here in external posts, there may be broken links!
-
-For members: the membership list now lives [here](./docs/01-membership.md).
-
-Please note that we do not accept pull requests for minor corrections, such as typos. Instead, we encourage you to open an issue to report these items, and we will compile them into a single update. Thank you!
-
-![image](https://github.com/user-attachments/assets/e4758b49-bfda-45f7-b1cc-7195b84ff8a4)
+As code becomes law, maintained transparency is the key in ecosystem.
+https://www.tally.xyz/profile/0xb5c1baf2e532bb749a6b2034860178a3558b6e58
+i,m eligible for protocol guild vesting stresms since 2023 through the Arbitrum DAO Grant Program supports builders with milestones-based funding for growth. All grants issued through this program will serve to improve the adoption of Arbitrum chains, create stronger technical structures, and build sustainable communities in the Arbitrum ecosystem.
+I vote/advocate for proposals that Strengthen Ethereum's base-layer. I vote/advocate against proposals that create single points of failure. As a verified arbitrumDAO/Protocol Guild Gas Payor for over three years | started 365 days Pilot contract, I bring direct firsthand experience coordinating and funding Ethereum core development. However I have not yet fully requested my personal vesting stream through Agora delegation, I respectfully ask ratifying my continued membership and enabling the start/release of my proportional vesting share in the next quarterly registry update or scoped distribution proposal. My core priorities remain long-term sustainability and security of Ethereum core protocol development, strong support for the 1% pledge norm and encouraging more projects to allocate tokens in transparent onchain manner. I have no major conflicts of interest beyond my Protocol Guild Gas Payor role, registry participation and vesting stream. https://bit.ly/4elJbwf
+https://bit.ly/4c9dKDY https://bit.ly/48278F3 https://bit.ly/4egN1Xu. I do not hold
+significant governance roles in other major protocol DAOs that would conflict here. I'm a verified delegate/participant in other major DAOs (Arbitrum, Uniswap, ENS and Compound) https://tinyurl.com/yr3ahuh7https://tinyurl.com/4fh6s6wc
+https://tinyurl.com/yaeet35y.https://tinyurl.com/43t765bn.| am committed to acting
+as a responsible delegate, voting to maintain active contributing members on the registry and ensuring vested funds flow efficiently to those doing the work.
+(Obasimartins65.eth) Let's keep building Ethereum together. WAGMI %
