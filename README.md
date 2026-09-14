@@ -1,8 +1,7 @@
-Verified arbitrumDAO and Researcher https://snapshot.org/#/profile/0xB5c1baF2E532Bb749a6b2034860178A3558b6e58 https://paragraph.com/@0xB5c1baF2E532Bb749a6b2034860178A3558b6e58 Since code becomes law maintaining transparency is the key for organizations/individuals to work.
-project verified and built on 6 months Arbitrum DAO Grant Program supports builders with milestones-based funding for growth. 
-All grants issued through this program will serve to improve the adoption of Arbitrum chains, create stronger technical structures. 
-I vote/advocate for proposals that Strengthen Ethereum’s base-layer. 
-I vote/advocate against proposals that create single points of failure. 
-As a verified Arbitrum governance for over three years I started 365 days Pilot contract, I bring direct firsthand experience coordinating and funding Ethereum core development.
-However I have not yet fully requested my personal governance vesting stream through Moloch/Agora delegation, l respectfully ask for ratifying continued membership and enabling the start/release of my proportional vesting share in the next quarterly registry update or scoped distribution proposal. My core priorities remain long-term sustainability and security of Ethereum core protocol development, strong support for the 1% pledge norm and encouraging more projects to allocate tokens in transparent onchain manner.
-I have no major conflicts of interest beyond my governance inclusion rectification, registry participation and vesting stream. https://tinyurl.com/yaeet35yhttps://tinyurl.com/43t765bn https://tinyurl.com/yr3ahuh7 https://tinyurl.com/4fh6s6wchttps://bit.ly/4elJbwf https://bit.ly/48278F3 https://bit.ly/4egN1Xu. I do hold significant governance roles in other major protocol DAOs like ArbitrumDAO. I’m a verified delegate/participant in other major DAOs (SafeDAO, Arbitrum, Uniswap, ENS and Compound)
+https://snapshot.org/#/profile/0xB5c1baF2E532Bb749a6b2034860178A3558b6e58 https://paragraph.com/@0xB5c1baF2E532Bb749a6b2034860178A3558b6e58 
+I am a verified independent researcher and participant in ArbitrumDAO/SafeDAO governance. My focus is on long-term sustainability, security, and transparent decision-making that strengthens Ethereum’s base layer and the Arbitrum ecosystem. 
+I prioritize proposals that improve technical foundations, user experience, and responsible treasury management while avoiding single points of failure. 
+I maintain open communication regarding my voting positions and welcome feedback from the community.
+Any relevant affiliations or potential conflicts of interest will be disclosed clearly and promptly. 
+I have no major conflicts of interest other than my involvement with the Pguild project and its proposed inclusion in the governance framework. 
+I am committed to upholding accountability, transparency, and the consistent application of governance standards and protocols.​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
